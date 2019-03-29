@@ -1,0 +1,42 @@
+C:\Users\chanakya.dusi\Desktop\rootpro\infoapi\bin\Debug\netcoreapp2.2\infoapi.deps.json
+C:\Users\chanakya.dusi\Desktop\rootpro\infoapi\bin\Debug\netcoreapp2.2\infoapi.runtimeconfig.json
+C:\Users\chanakya.dusi\Desktop\rootpro\infoapi\bin\Debug\netcoreapp2.2\infoapi.runtimeconfig.dev.json
+C:\Users\chanakya.dusi\Desktop\rootpro\infoapi\bin\Debug\netcoreapp2.2\infoapi.dll
+C:\Users\chanakya.dusi\Desktop\rootpro\infoapi\bin\Debug\netcoreapp2.2\infoapi.pdb
+C:\Users\chanakya.dusi\Desktop\rootpro\infoapi\obj\Debug\netcoreapp2.2\infoapi.csprojAssemblyReference.cache
+C:\Users\chanakya.dusi\Desktop\rootpro\infoapi\obj\Debug\netcoreapp2.2\infoapi.csproj.CoreCompileInputs.cache
+C:\Users\chanakya.dusi\Desktop\rootpro\infoapi\obj\Debug\netcoreapp2.2\infoapi.RazorAssemblyInfo.cache
+C:\Users\chanakya.dusi\Desktop\rootpro\infoapi\obj\Debug\netcoreapp2.2\infoapi.RazorAssemblyInfo.cs
+C:\Users\chanakya.dusi\Desktop\rootpro\infoapi\obj\Debug\netcoreapp2.2\infoapi.AssemblyInfoInputs.cache
+C:\Users\chanakya.dusi\Desktop\rootpro\infoapi\obj\Debug\netcoreapp2.2\infoapi.AssemblyInfo.cs
+C:\Users\chanakya.dusi\Desktop\rootpro\infoapi\obj\Debug\netcoreapp2.2\infoapi.RazorTargetAssemblyInfo.cache
+C:\Users\chanakya.dusi\Desktop\rootpro\infoapi\obj\Debug\netcoreapp2.2\infoapi.dll
+C:\Users\chanakya.dusi\Desktop\rootpro\infoapi\obj\Debug\netcoreapp2.2\infoapi.pdb
+C:\Users\chanakya.dusi\Desktop\rootpro backup in videos folder\infoapi\bin\Debug\netcoreapp2.2\infoapi.deps.json
+C:\Users\chanakya.dusi\Desktop\rootpro backup in videos folder\infoapi\bin\Debug\netcoreapp2.2\infoapi.runtimeconfig.json
+C:\Users\chanakya.dusi\Desktop\rootpro backup in videos folder\infoapi\bin\Debug\netcoreapp2.2\infoapi.runtimeconfig.dev.json
+C:\Users\chanakya.dusi\Desktop\rootpro backup in videos folder\infoapi\bin\Debug\netcoreapp2.2\infoapi.dll
+C:\Users\chanakya.dusi\Desktop\rootpro backup in videos folder\infoapi\bin\Debug\netcoreapp2.2\infoapi.pdb
+C:\Users\chanakya.dusi\Desktop\rootpro backup in videos folder\infoapi\obj\Debug\netcoreapp2.2\infoapi.csprojAssemblyReference.cache
+C:\Users\chanakya.dusi\Desktop\rootpro backup in videos folder\infoapi\obj\Debug\netcoreapp2.2\infoapi.csproj.CoreCompileInputs.cache
+C:\Users\chanakya.dusi\Desktop\rootpro backup in videos folder\infoapi\obj\Debug\netcoreapp2.2\infoapi.RazorAssemblyInfo.cache
+C:\Users\chanakya.dusi\Desktop\rootpro backup in videos folder\infoapi\obj\Debug\netcoreapp2.2\infoapi.RazorAssemblyInfo.cs
+C:\Users\chanakya.dusi\Desktop\rootpro backup in videos folder\infoapi\obj\Debug\netcoreapp2.2\infoapi.AssemblyInfoInputs.cache
+C:\Users\chanakya.dusi\Desktop\rootpro backup in videos folder\infoapi\obj\Debug\netcoreapp2.2\infoapi.AssemblyInfo.cs
+C:\Users\chanakya.dusi\Desktop\rootpro backup in videos folder\infoapi\obj\Debug\netcoreapp2.2\infoapi.RazorTargetAssemblyInfo.cache
+C:\Users\chanakya.dusi\Desktop\rootpro backup in videos folder\infoapi\obj\Debug\netcoreapp2.2\infoapi.dll
+C:\Users\chanakya.dusi\Desktop\rootpro backup in videos folder\infoapi\obj\Debug\netcoreapp2.2\infoapi.pdb
+C:\Users\chanakya.dusi\Videos\rootpro backup in videos folder\infoapi\bin\Debug\netcoreapp2.2\infoapi.deps.json
+C:\Users\chanakya.dusi\Videos\rootpro backup in videos folder\infoapi\bin\Debug\netcoreapp2.2\infoapi.runtimeconfig.json
+C:\Users\chanakya.dusi\Videos\rootpro backup in videos folder\infoapi\bin\Debug\netcoreapp2.2\infoapi.runtimeconfig.dev.json
+C:\Users\chanakya.dusi\Videos\rootpro backup in videos folder\infoapi\bin\Debug\netcoreapp2.2\infoapi.dll
+C:\Users\chanakya.dusi\Videos\rootpro backup in videos folder\infoapi\bin\Debug\netcoreapp2.2\infoapi.pdb
+C:\Users\chanakya.dusi\Videos\rootpro backup in videos folder\infoapi\obj\Debug\netcoreapp2.2\infoapi.csprojAssemblyReference.cache
+C:\Users\chanakya.dusi\Videos\rootpro backup in videos folder\infoapi\obj\Debug\netcoreapp2.2\infoapi.csproj.CoreCompileInputs.cache
+C:\Users\chanakya.dusi\Videos\rootpro backup in videos folder\infoapi\obj\Debug\netcoreapp2.2\infoapi.RazorAssemblyInfo.cache
+C:\Users\chanakya.dusi\Videos\rootpro backup in videos folder\infoapi\obj\Debug\netcoreapp2.2\infoapi.RazorAssemblyInfo.cs
+C:\Users\chanakya.dusi\Videos\rootpro backup in videos folder\infoapi\obj\Debug\netcoreapp2.2\infoapi.AssemblyInfoInputs.cache
+C:\Users\chanakya.dusi\Videos\rootpro backup in videos folder\infoapi\obj\Debug\netcoreapp2.2\infoapi.AssemblyInfo.cs
+C:\Users\chanakya.dusi\Videos\rootpro backup in videos folder\infoapi\obj\Debug\netcoreapp2.2\infoapi.RazorTargetAssemblyInfo.cache
+C:\Users\chanakya.dusi\Videos\rootpro backup in videos folder\infoapi\obj\Debug\netcoreapp2.2\infoapi.dll
+C:\Users\chanakya.dusi\Videos\rootpro backup in videos folder\infoapi\obj\Debug\netcoreapp2.2\infoapi.pdb
